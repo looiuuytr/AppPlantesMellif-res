@@ -1,5 +1,2 @@
 # AppPlantesMellif-res
-<b>
-gras
-</b>
-pas gras
+Projet sur les plantes mellifères
