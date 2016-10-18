@@ -69,6 +69,7 @@ p.para{
 	font-size: 0.8725em;
 	line-height: 1.8em;
 	color: #555555;
+	text-align: justify;
 }
 .img_style img{
 	padding: 8px;
